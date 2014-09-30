@@ -17,9 +17,13 @@ public class Entrega {
     public void develop3() {
 
     }
-    
-    public void release1(){
-        
+
+    public void release1() {
+
+    }
+
+    public void release2() {
+
     }
 
 }
