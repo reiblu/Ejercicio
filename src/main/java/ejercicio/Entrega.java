@@ -2,27 +2,27 @@ package ejercicio;
 
 public class Entrega {
 
-    public void master() {
+    public void ejercicio() {
 
     }
 
-    public void develop1() {
+    public void ejercicio1() {
 
     }
 
-    public void develop2() {
+    public void ejercici2() {
 
     }
 
-    public void develop3() {
+    public void ejercicio3() {
 
     }
 
-    public void release1() {
+    public void develop4() {
 
     }
 
-    public void release2() {
+    public void release3() {
 
     }
 
