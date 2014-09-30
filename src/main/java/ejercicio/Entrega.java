@@ -6,4 +6,9 @@ public class Entrega {
         
     }
     
+    public void ejercicio1(){
+        
+        
+    }
+    
 }
